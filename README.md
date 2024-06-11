@@ -33,7 +33,7 @@ Then render the app.html file
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/katesumedh/House-Price-Prediction/blob/main/Screenshot%202024-06-11%20121839.png))
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
