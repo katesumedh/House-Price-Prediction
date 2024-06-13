@@ -23,7 +23,13 @@ The dataset can be accessed through - https://www.kaggle.com/datasets/amitabhajo
 
 ## Deployment
 
-To deploy this project, navigate to server directory and run
+To deploy this project, navigate to server directory
+
+```bash
+  cd server
+```
+
+Now run, 
 
 ```bash
   python server.py
