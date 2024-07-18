@@ -39,6 +39,6 @@ Then render the app.html file
 
 ## Screenshots
 
-<img src = "Screenshot 2024-06-11 121839.png" width = "400px" height = "300px">
+<img src = "Screenshot 2024-06-11 121839.png" width = "600px" height = "400px">
 
-<img src = "Screenshot 2024-06-11 121918.png" width = "400px" height = "300px">
+<img src = "Screenshot 2024-06-11 121918.png" width = "600px" height = "400px">
